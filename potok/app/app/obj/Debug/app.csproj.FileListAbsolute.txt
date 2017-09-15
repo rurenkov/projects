@@ -1,0 +1,12 @@
+D:\vet\sharp\projects\potok\app\app\bin\Debug\app.exe.config
+D:\vet\sharp\projects\potok\app\app\bin\Debug\app.exe
+D:\vet\sharp\projects\potok\app\app\bin\Debug\app.pdb
+D:\vet\sharp\projects\potok\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+D:\vet\sharp\projects\potok\app\app\obj\Debug\app.exe
+D:\vet\sharp\projects\potok\app\app\obj\Debug\app.pdb
+D:\temp\projects\projects\potok\app\app\bin\Debug\app.exe.config
+D:\temp\projects\projects\potok\app\app\obj\Debug\app.exe
+D:\temp\projects\projects\potok\app\app\obj\Debug\app.pdb
+D:\temp\projects\projects\potok\app\app\bin\Debug\app.exe
+D:\temp\projects\projects\potok\app\app\bin\Debug\app.pdb
+D:\temp\projects\projects\potok\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
